@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Varazdat Stepanyan",
+  "dependencies": {
+    "jsdom": "^22.0.0",
+    "uuid": "^9.0.0"
+  }
+}
